@@ -23,5 +23,9 @@ If for any reason you get stuck along the way, join our [Telegram chat](https://
 
 Twitter: @DIYbitcoin
 
+
+
+**Disclaimer** This code was given to me with the permission of a member of the chat since they don't have a github account, or the time to create one!
+
  
 
