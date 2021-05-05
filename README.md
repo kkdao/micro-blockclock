@@ -17,7 +17,7 @@ Step 6) Click the "Run" icon beside the Device File Manager icon to flash the fi
 
 Enjoy!
 
-**Troubleshooting**
+**TROUBLESHOOTING**
 
 If for any reason you get stuck along the way, join our [Telegram chat](https://t.me/DIYbitcoin) where you can ask in there to receive support.
 
